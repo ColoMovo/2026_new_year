@@ -1,0 +1,19 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #000;
+  color: #fff;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  user-select: none;
+  background-image: url('./@generated_image_f07b72b3-00a3-4a05-a086-9cb16e6a9883.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}

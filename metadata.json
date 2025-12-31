@@ -1,0 +1,7 @@
+{
+  "name": "2026 New Year Celebration",
+  "description": "A festive 2026 countdown application featuring full-screen fireworks, dynamic blessings, and synced celebration sound effects.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
